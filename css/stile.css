@@ -24,4 +24,5 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 2rem;
+    border-radius: 15px;
 }
